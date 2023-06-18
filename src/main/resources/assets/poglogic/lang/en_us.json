@@ -1,0 +1,17 @@
+{
+  "item.poglogic.eightball": "Eight Ball",
+
+  "block.poglogic.andgate": "AND Gate",
+  "block.poglogic.orgate": "OR Gate",
+  "block.poglogic.norgate": "NOR Gate",
+  "block.poglogic.nandgate": "NAND Gate",
+  "block.poglogic.inverter": "NOT Gate",
+  "block.poglogic.clock": "Clock",
+  "block.poglogic.dff": "D Flip Flop",
+  "block.poglogic.xorgate": "XOR gate",
+  "block.poglogic.jkff": "JK Flip FLop",
+
+
+
+  "itemGroup.pogtab": "POG TAB"
+}

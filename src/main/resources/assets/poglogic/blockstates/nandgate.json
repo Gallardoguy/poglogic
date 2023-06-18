@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "poglogic:block/nandgate"
+    },
+    "facing=south": {
+      "model": "poglogic:block/nandgate",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "poglogic:block/nandgate",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "poglogic:block/nandgate",
+      "y": 90
+    }
+  }
+}

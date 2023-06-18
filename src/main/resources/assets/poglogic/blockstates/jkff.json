@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "poglogic:block/jkff"
+    },
+    "facing=south": {
+      "model": "poglogic:block/jkff",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "poglogic:block/jkff",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "poglogic:block/jkff",
+      "y": 90
+    }
+  }
+}

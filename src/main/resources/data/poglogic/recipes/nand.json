@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "poglogic:andgate"
+    },
+    "X": {
+      "item": "poglogic:inverter"
+    }
+  },
+  "result": {
+    "item": "poglogic:nandgate"
+  }
+
+}

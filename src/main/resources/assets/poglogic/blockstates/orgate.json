@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "poglogic:block/orgate"
+    },
+    "facing=south": {
+      "model": "poglogic:block/orgate",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "poglogic:block/orgate",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "poglogic:block/orgate",
+      "y": 90
+    }
+  }
+}
